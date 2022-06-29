@@ -1,0 +1,7 @@
+{
+    "name": "PY2 Dev Container",
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "workbench.colorTheme": "Abyss",
+    }
+}
